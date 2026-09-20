@@ -1,3 +1,7 @@
+Demo Video :- https://nagarro-my.sharepoint.com/:v:/p/mohanpreet_singh/IQCpmwrf-uFZRYU973Wx_OqTAUrr9VCkKQRKkD7tBhOhdlY?e=YzD0oQ
+
+Github Repo link :- https://github.com/mohanpreet-nagarro/nagp-ds-assignment.git
+
 # Telco Customer Churn Prediction
 
 ## 1. Business Problem
