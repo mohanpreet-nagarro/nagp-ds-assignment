@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+churn_env/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/secrets (if you add one later, e.g. for API keys)
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Keep these — they are required assignment deliverables, do NOT ignore:
+# data/TelcoCustomerChurn.csv
+# data/TelcoCustomerChurn - Data Dictionary.csv
+# model/churn_pipeline.pkl
+# notebook/churn_analysis.ipynb
